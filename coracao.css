@@ -6,6 +6,10 @@ body {
     box-sizing: border-box;
     }
 
+    div {
+        color:firebrick;
+        }
+
     .coracao {
         background-color: #f11a0b;
         width: 50px;
